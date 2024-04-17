@@ -13,3 +13,7 @@ It is a data structure that contains an ordered collection of elements.
 Tuples are indexed orderd and contain duplicate values.
 A tuple is used as a paranthesis checker and it is used to insert records in database.
 
+## Queues.
+It is a linear data sructure that consists of collection of items that follows a first in first out sequence.
+Queues can be acessed on both end and can handle  multiple data.
+
